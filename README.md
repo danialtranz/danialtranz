@@ -6,47 +6,15 @@
 
 ### AI Automation Agency
 
-🌐 **Website:** https://dinoboo.com
+<a href="https://dinoboo.com"><img src="https://img.shields.io/badge/Website-dinoboo.com-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
 We are a team of 6 engineers based in Asia, helping businesses automate operations, reduce manual work, and scale efficiently with AI.
 
 Our focus is not building AI demos—we build practical AI solutions that deliver measurable business results.
 
-## What We Do
-
-### Internal AI Assistants
-
-Build AI assistants that help employees access company knowledge, answer questions, and complete repetitive tasks.
-
-### Workflow Automation
-
-Automate manual processes across departments using AI, APIs, and modern automation platforms.
-
-### Knowledge Management
-
-Transform documents, SOPs, and internal resources into searchable AI-powered knowledge systems.
-
-### CRM & Business Integrations
-
-Connect AI with CRMs, emails, databases, and business tools to streamline operations.
-
----
-
-## Why Clients Work With Us
-
-✓ Small and highly responsive team
-
-✓ Direct communication with engineers
-
-✓ Business-focused AI solutions
-
-✓ Fast delivery and iteration cycles
-
-✓ Long-term support and collaboration
-
-✓ Registered company with professional invoicing
-
-✓ Clear communication and transparent development process
+<div align="center">
+  <img src="asset/section.png" alt="What We Do & Why Clients Work With Us" width="100%"/>
+</div>
 
 ---
 
@@ -54,15 +22,33 @@ Connect AI with CRMs, emails, databases, and business tools to streamline operat
 
 **AI & Agents**
 
-OpenAI • Claude • Gemini • LangGraph • LangChain
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
+</p>
 
 **Automation**
 
-n8n • Make • Zapier
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Make-000000?style=flat&logo=make&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier"/>
+</p>
 
 **Backend & Infrastructure**
 
-Python • FastAPI • Node.js • PostgreSQL • Redis • Elasticsearch • Docker
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 ---
 
@@ -70,10 +56,9 @@ Python • FastAPI • Node.js • PostgreSQL • Redis • Elasticsearch • Do
 
 Whether you need an internal AI assistant, workflow automation, knowledge management system, or CRM integration, we're ready to help.
 
-🌐 https://dinoboo.com
-
-📧 [hungtch.work@gmail.com](mailto:hungtch.work@gmail.com)
-
-🔗 https://github.com/danialtranz
-
-🔗 https://www.linkedin.com/in/daniel-tran-b211b23aa/
+<p>
+  <a href="https://dinoboo.com"><img src="https://img.shields.io/badge/Website-dinoboo.com-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:hungtch.work@gmail.com"><img src="https://img.shields.io/badge/Email-hungtch.work%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/danialtranz"><img src="https://img.shields.io/badge/GitHub-danialtranz-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/daniel-tran-b211b23aa/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Tran-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
